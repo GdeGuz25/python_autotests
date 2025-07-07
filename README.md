@@ -38,4 +38,4 @@ python3 -m pip install pytest
 pytest tests/test_pokemon.py
 Ожидаемый результат: получим отчет о прохождении тестов.
 Автор
-Герман Дольников (@dolnikov)
+Гюзель Яцентюк (@GuzelYat)
